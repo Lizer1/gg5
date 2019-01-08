@@ -227,4 +227,4 @@ function play(guild, song) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTMyMTMyMjAwMjQyNjEwMTc2.DxYClA.CJdN7DKLes9mnkwxTouU-xZXWq4);
